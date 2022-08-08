@@ -5,7 +5,7 @@ import { ReactComponent as DarkThemeIcon } from "../images/icon-moon.svg";
 
 const Header = () => {
   return (
-    <Flex align="center" justify="space-between">
+    <Flex align="center" justify="space-between" pb="3rem">
       <Heading
         textTransform="uppercase"
         color="#fff"
